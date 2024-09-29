@@ -4,6 +4,7 @@ import UIKit
 #endif
 
 import Combine
+import Foundation
 
 final class LinkEnvelopesDispatcher {
     enum Errors: Error {
